@@ -1,5 +1,21 @@
 # Swimming
 
+## 11-OCT-2024 ()
+
+Set|Notes
+---|---
+200 swim|
+100 kick|
+200 swim|
+100 IM + 50 rest 5 s |
+100 rest 10s|
+200 rest 20s|
+300 rest 30s|
+200 rest 20s|
+100 rest 10s|
+50 + 6x 50 at some interval|
+300 cool down|
+
 ## 07-OCT-2024 (2300)
 
 Set|Notes
